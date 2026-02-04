@@ -39,6 +39,6 @@ It’s a great place for brainstorming and sharing best practices with other mem
 
 ### 🗓️ Latest Version and change logs
 
-See [CHANGELOGS](https://github.com/shaunSocial/shaunsocial-updates-feedback/tree/main/Changelogs) for details on updates and improvements.
+See [CHANGELOGS](https://github.com/fantasyenginescript/fantasy-sport-opensource-platform-fantasyengine-updates-and-feedback/tree/main/Changelogs) for details on updates and improvements.
 
-See [Releases](https://github.com/shaunSocial/shaunsocial-updates-feedback/releases) for detailed changes source code each release. 
+See [Releases](https://github.com/fantasyenginescript/fantasy-sport-opensource-platform-fantasyengine-updates-and-feedback/releases) for detailed changes source code each release. 
