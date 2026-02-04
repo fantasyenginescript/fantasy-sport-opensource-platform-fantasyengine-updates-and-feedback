@@ -10,7 +10,7 @@ Here you can:
 
 We believe great software grows with great communities — your feedback helps us improve ShaunSocial for everyone.
 
-🔗 **Official site:** [https://www.fantasyengine.net](https://www.fantasyengine.net)  
+🔗 **Official site:** [https://fantasyengine.net](https://www.fantasyengine.net)  
 🔗 **Demo site:** [https://demo.fantasyengine.net](https://demo.fantasyengine.net)  
 📧 **Support:** support@fantasyengine.net 
 
